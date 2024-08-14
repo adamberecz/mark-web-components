@@ -1,0 +1,60 @@
+{"data":
+  {
+    "terms_2": false,
+    "terms_1": false,
+    "available_from": "As soon as possible",
+    "weekly_rate_plan": false,
+    "nonrefundable_rate_plan": false,
+    "group_discount": false,
+    "accidental_booking_protection": true,
+    "free_days_before_cancellation": "2",
+    "price_per_night": "120",
+    "can_charge_card": "Yes",
+    "gallery": [],
+    "property": null,
+    "profile": [
+      "The property"
+    ],
+    "check_out_until": "10:00",
+    "check_out_from": "06:00",
+    "check_in_until": "23:00",
+    "check_in_from": "15:00",
+    "rules": [],
+    "languages": [
+      "English"
+    ],
+    "parking": "No",
+    "serve_breakfast": "No",
+    "equipment": {
+      "general": [],
+      "kitchen": [],
+      "entertainment": [],
+      "outside": []
+    },
+    "rooms": [
+      {
+        "room_type": "Bedroom",
+        "beds": [
+          {
+            "bed_type": "Single bed (90 cm - 130 cm)",
+            "bed_count": "1"
+          }
+        ]
+      }
+    ],
+    "size": "75",
+    "bathroom_count": "2",
+    "guests_count": "4",
+    "location": {
+      "country": "CH",
+      "street": "Alte Steige",
+      "house_number": "15",
+      "floor": null,
+      "zip": "87629",
+      "city": "Füssen"
+    },
+    "accommodation_name": "My Cool House",
+    "advert_elsewhere": [],
+    "accommodation_type": "Apartment"
+  }
+}
